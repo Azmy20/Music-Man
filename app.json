@@ -1,8 +1,8 @@
 {
-  "name": "Music Anydl Bot",
+  "name": "SujandraMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/t03b10t99/Music-Man",
+  "repository": "https://github.com/Azmy20/Music-Man",
   "stack": "container",
   "buildpacks": [
    {
@@ -74,7 +74,7 @@
     "DURATION_LIMIT": {
       "description": "Batas durasi audio maksimal untuk download (minutes).",
       "required": true,
-      "value": "60"
+      "value": "290"
     }
   }
 }
