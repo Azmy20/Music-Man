@@ -30,7 +30,10 @@ logging.basicConfig(level=logging.INFO)
 async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/1729991b1d59a686b3b9d.jpg)
-Dikekolah oleh {OWNER}
+Saya Telah Di Rancang Khusus Oleh Seseorang Dengan Segabut 
+Mungkin, Mari Dengarkan Music Bersama Sama🎶.
+
+Developed by ❤️ {OWNER}
 ┈───────────────────┈
 ☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
 🔘 Memutar lagu di group 
